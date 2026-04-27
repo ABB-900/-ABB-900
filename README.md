@@ -16,3 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=ABB-900&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 Certifications
+| Certificate | Issuer | Year |
+|---|---|---|
+| [✅ Claude 101](./certificate-u9fgrzyv7kut-1777298483.pdf) | Anthropic Academy | 2026 |
